@@ -1,4 +1,4 @@
-# Model_Calibration_HW1F_BlackKarasinski
+# Model_Calibration_BlackKarasinski_HW1F
 EF4821 Derivatives Pricing II: Interest Rate and Credit Risk Project
 
 ### Tool
